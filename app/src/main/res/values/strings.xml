@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">1918030</string>
+    <string name="job_success">Job Success</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="my_desc">Keep calm n be productive people.</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="contact">Kontak</string>
+    <string name="skills">Keahlian</string>
+    <string name="ratings">Star Ratings</string>
+    <string name="samplereview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pretium bibendum sapien, ut euismod massa. Duis convallis sem sed turpis elementum auctor.</string>
+</resources>
